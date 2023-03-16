@@ -1,7 +1,7 @@
-Dai Hoc Can Tho </br>
-Truong Cong Nghe Thong Tin va Truyen Thong </br>
-Dang Thi Phuong Dung B2011959</br>
-##:sparkles: Quản Lý Cửa Hàng Bán Đồ Trang Trí Nội Thất
+Dai Hoc Can Tho 
+Truong Cong Nghe Thong Tin va Truyen Thong 
+Dang Thi Phuong Dung B2011959
+:sparkles: **Quản Lý Cửa Hàng Bán Đồ Trang Trí Nội Thất**
 ### I-Giới thiệu đề tài
   1. Giới thiệu
   2. Sự cần thiết và lợi ích
